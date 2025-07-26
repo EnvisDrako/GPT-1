@@ -1,0 +1,1 @@
+This is my endeavor on learining how an llm works
