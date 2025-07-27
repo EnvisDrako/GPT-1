@@ -1,1 +1,1 @@
-This is my endeavor on learining how an llm works
+This is my endeavor on learning how an llm works
